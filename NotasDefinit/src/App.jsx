@@ -1,7 +1,7 @@
-import DatosEstudiantes from "./components/DatosEstudiantes"
 import Formulario from "./components/Formulario"
 import Header from "./components/Header"
 import ListadoEstudiantes from "./components/ListadoEstudiantes"
+import DatosEstudiantes from "./components/DatosEstudiantes"
 import React, { Component } from 'react';
 
 function App() {
